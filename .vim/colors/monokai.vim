@@ -1,0 +1,1 @@
+/home/blhall/.vim/gits/vim-monokai/colors/monokai.vim

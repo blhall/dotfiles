@@ -1,0 +1,1 @@
+/home/blhall/.vim/plugged/vim-elixir/syntax/elixir.vim

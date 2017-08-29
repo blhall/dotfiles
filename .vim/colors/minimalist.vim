@@ -1,0 +1,1 @@
+/home/blhall/minimalist/colors/minimalist.vim

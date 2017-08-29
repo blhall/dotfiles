@@ -1,0 +1,1 @@
+/home/blhall/.vim/plugged/vim-erlang-runtime/syntax/erlang.vim

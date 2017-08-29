@@ -1,0 +1,1 @@
+/home/blhall/Downloads/solarized/vim-colors-solarized/colors/solarized.vim
